@@ -1,0 +1,13 @@
+# Target labels
+ crazysim_gz
+# Source files and their labels
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/CMakeFiles/crazysim_gz
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/CMakeFiles/crazysim_gz.rule
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/CMakeFiles/crazysim_gz-complete.rule
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/crazysim_gz-prefix/src/crazysim_gz-stamp/crazysim_gz-build.rule
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/crazysim_gz-prefix/src/crazysim_gz-stamp/crazysim_gz-configure.rule
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/crazysim_gz-prefix/src/crazysim_gz-stamp/crazysim_gz-download.rule
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/crazysim_gz-prefix/src/crazysim_gz-stamp/crazysim_gz-install.rule
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/crazysim_gz-prefix/src/crazysim_gz-stamp/crazysim_gz-mkdir.rule
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/crazysim_gz-prefix/src/crazysim_gz-stamp/crazysim_gz-patch.rule
+/home/cpsl/CrazySim/crazyflie-firmware/sitl_make/build/crazysim_gz-prefix/src/crazysim_gz-stamp/crazysim_gz-update.rule

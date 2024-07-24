@@ -1,0 +1,126 @@
+[0.402s] Invoking command in '/home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim': CMAKE_PREFIX_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking:/home/cpsl/CrazySim/ros2_ws/install/crazyflie:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_examples:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_mpc:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/cpsl/acados/lib /usr/bin/cmake /home/cpsl/CrazySim/ros2_ws/src/crazyswarm2/crazyflie_sim -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim
+[0.484s] -- The C compiler identification is GNU 11.4.0
+[0.568s] -- The CXX compiler identification is GNU 11.4.0
+[0.578s] -- Detecting C compiler ABI info
+[0.677s] -- Detecting C compiler ABI info - done
+[0.687s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.687s] -- Detecting C compile features
+[0.688s] -- Detecting C compile features - done
+[0.692s] -- Detecting CXX compiler ABI info
+[0.805s] -- Detecting CXX compiler ABI info - done
+[0.816s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.816s] -- Detecting CXX compile features
+[0.817s] -- Detecting CXX compile features - done
+[0.820s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.561s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.666s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.962s] -- Configuring done
+[1.968s] -- Generating done
+[1.970s] -- Build files have been written to: /home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim
+[1.977s] Invoked command in '/home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim' returned '0': CMAKE_PREFIX_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking:/home/cpsl/CrazySim/ros2_ws/install/crazyflie:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_examples:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_mpc:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/cpsl/acados/lib /usr/bin/cmake /home/cpsl/CrazySim/ros2_ws/src/crazyswarm2/crazyflie_sim -DCMAKE_BUILD_TYPE=Release -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim
+[1.980s] Invoking command in '/home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim': CMAKE_PREFIX_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking:/home/cpsl/CrazySim/ros2_ws/install/crazyflie:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_examples:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_mpc:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/cpsl/acados/lib /usr/bin/cmake --build /home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim -- -j16 -l16
+[2.065s] Built target ament_cmake_python_symlink_crazyflie_sim_setup
+[2.065s] Built target ament_cmake_python_symlink_crazyflie_sim
+[2.277s] running install_scripts
+[2.280s] running egg_info
+[2.281s] creating crazyflie_sim.egg-info
+[2.297s] writing crazyflie_sim.egg-info/PKG-INFO
+[2.298s] writing dependency_links to crazyflie_sim.egg-info/dependency_links.txt
+[2.298s] writing entry points to crazyflie_sim.egg-info/entry_points.txt
+[2.298s] writing top-level names to crazyflie_sim.egg-info/top_level.txt
+[2.299s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[2.302s] /home/cpsl/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[2.302s] !!
+[2.302s] 
+[2.302s]         ********************************************************************************
+[2.302s]         Please avoid running ``setup.py`` directly.
+[2.302s]         Instead, use pypa/build, pypa/installer or other
+[2.302s]         standards-based tools.
+[2.302s] 
+[2.302s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[2.302s]         ********************************************************************************
+[2.302s] 
+[2.303s] !!
+[2.303s]   self.initialize_options()
+[2.305s] running egg_info
+[2.332s] writing crazyflie_sim.egg-info/PKG-INFO
+[2.333s] writing dependency_links to crazyflie_sim.egg-info/dependency_links.txt
+[2.333s] writing entry points to crazyflie_sim.egg-info/entry_points.txt
+[2.333s] writing top-level names to crazyflie_sim.egg-info/top_level.txt
+[2.359s] reading manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[2.360s] reading manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[2.360s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[2.361s] writing manifest file 'crazyflie_sim.egg-info/SOURCES.txt'
+[2.429s] Built target ament_cmake_python_build_crazyflie_sim_egg
+[2.459s] Installing crazyflie_server script to scripts
+[2.539s] Built target ament_cmake_python_build_crazyflie_sim_scripts
+[2.735s] Invoked command in '/home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim' returned '0': CMAKE_PREFIX_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking:/home/cpsl/CrazySim/ros2_ws/install/crazyflie:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_examples:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_mpc:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/cpsl/acados/lib /usr/bin/cmake --build /home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim -- -j16 -l16
+[2.773s] Invoking command in '/home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim': CMAKE_PREFIX_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking:/home/cpsl/CrazySim/ros2_ws/install/crazyflie:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_examples:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_mpc:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/cpsl/acados/lib /usr/bin/cmake --install /home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim
+[2.783s] -- Install configuration: "Release"
+[2.783s] -- Execute custom install script
+[2.783s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/environment/pythonpath.sh
+[2.797s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/environment/pythonpath.dsv
+[2.810s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/PKG-INFO
+[2.821s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/SOURCES.txt
+[2.833s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/dependency_links.txt
+[2.847s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/entry_points.txt
+[2.862s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim-2.0.0-py3.10.egg-info/top_level.txt
+[2.878s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/lib/crazyflie_sim//crazyflie_server
+[2.892s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/__init__.py
+[2.905s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/none.py
+[2.919s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/np.py
+[2.932s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_server.py
+[2.946s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_sil.py
+[2.960s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/sim_data_types.py
+[2.973s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/README.md
+[2.987s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/blender.py
+[3.001s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/README.md
+[3.016s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/abandoned_greenhouse.jpg
+[3.027s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/aerodynamics_workshop.jpg
+[3.041s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/aviation_museum.jpg
+[3.057s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/crosswalk.jpg
+[3.072s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/derelict_overpass.jpg
+[3.088s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/env.jpg
+[3.102s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/lago_disola.jpg
+[3.118s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/lake_pier.jpg
+[3.133s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/machine_shop.jpg
+[3.148s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/museumplein.jpg
+[3.160s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/peppermint_powerplant.jpg
+[3.176s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env/studio_garden.jpg
+[3.191s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model/cf.mtl
+[3.205s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model/cf.obj
+[3.223s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/pdf.py
+[3.238s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/record_states.py
+[3.251s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/rviz.py
+[3.301s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/ament_index/resource_index/package_run_dependencies/crazyflie_sim
+[3.349s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/ament_index/resource_index/parent_prefix_path/crazyflie_sim
+[3.395s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/environment/ament_prefix_path.sh
+[3.422s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/environment/ament_prefix_path.dsv
+[3.467s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/environment/path.sh
+[3.507s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/environment/path.dsv
+[3.550s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/local_setup.bash
+[3.603s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/local_setup.sh
+[3.647s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/local_setup.zsh
+[3.668s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/local_setup.dsv
+[3.684s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/package.dsv
+[3.704s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/ament_index/resource_index/packages/crazyflie_sim
+[3.722s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/cmake/crazyflie_simConfig.cmake
+[3.737s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/cmake/crazyflie_simConfig-version.cmake
+[3.758s] -- Symlinking: /home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/share/crazyflie_sim/package.xml
+[3.829s] Listing '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim'...
+[3.830s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/__init__.py'...
+[3.830s] Listing '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend'...
+[3.830s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/none.py'...
+[3.830s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/backend/np.py'...
+[3.830s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_server.py'...
+[3.830s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/crazyflie_sil.py'...
+[3.830s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/sim_data_types.py'...
+[3.831s] Listing '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization'...
+[3.831s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/blender.py'...
+[3.831s] Listing '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data'...
+[3.831s] Listing '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/env'...
+[3.831s] Listing '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/data/model'...
+[3.831s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/pdf.py'...
+[3.831s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/record_states.py'...
+[3.831s] Compiling '/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim/local/lib/python3.10/dist-packages/crazyflie_sim/visualization/rviz.py'...
+[3.852s] Invoked command in '/home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim' returned '0': CMAKE_PREFIX_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking:/home/cpsl/CrazySim/ros2_ws/install/crazyflie:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_examples:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_mpc:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_py:/opt/ros/humble LD_LIBRARY_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/cpsl/acados/lib /usr/bin/cmake --install /home/cpsl/CrazySim/ros2_ws/build/crazyflie_sim

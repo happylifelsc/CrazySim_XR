@@ -1,0 +1,35 @@
+[1.449s] Invoking command in '/home/cpsl/CrazySim/ros2_ws/build/crazyflie_py': CMAKE_PREFIX_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking:/home/cpsl/CrazySim/ros2_ws/install/crazyflie:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_examples LD_LIBRARY_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/cpsl/acados/lib PYTHONPATH=/home/cpsl/CrazySim/ros2_ws/build/crazyflie_py/prefix_override:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/cpsl/CrazySim/ros2_ws/build/crazyflie_py/build --no-deps symlink_data
+[2.005s] running develop
+[2.005s] /home/cpsl/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[2.005s] !!
+[2.005s] 
+[2.005s]         ********************************************************************************
+[2.005s]         Please avoid running ``setup.py`` and ``easy_install``.
+[2.005s]         Instead, use pypa/build, pypa/installer or other
+[2.005s]         standards-based tools.
+[2.006s] 
+[2.006s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[2.006s]         ********************************************************************************
+[2.006s] 
+[2.006s] !!
+[2.006s]   easy_install.initialize_options(self)
+[2.290s] running egg_info
+[2.290s] creating crazyflie_py.egg-info
+[2.302s] writing crazyflie_py.egg-info/PKG-INFO
+[2.303s] writing dependency_links to crazyflie_py.egg-info/dependency_links.txt
+[2.303s] writing requirements to crazyflie_py.egg-info/requires.txt
+[2.303s] writing top-level names to crazyflie_py.egg-info/top_level.txt
+[2.303s] writing manifest file 'crazyflie_py.egg-info/SOURCES.txt'
+[2.329s] reading manifest file 'crazyflie_py.egg-info/SOURCES.txt'
+[2.330s] writing manifest file 'crazyflie_py.egg-info/SOURCES.txt'
+[2.397s] running build_ext
+[2.397s] Creating /home/cpsl/CrazySim/ros2_ws/install/crazyflie_py/lib/python3.10/site-packages/crazyflie-py.egg-link (link to .)
+[2.398s] 
+[2.398s] Installed /home/cpsl/CrazySim/ros2_ws/build/crazyflie_py
+[2.398s] running symlink_data
+[2.398s] creating /home/cpsl/CrazySim/ros2_ws/install/crazyflie_py/share/ament_index
+[2.398s] creating /home/cpsl/CrazySim/ros2_ws/install/crazyflie_py/share/ament_index/resource_index
+[2.398s] creating /home/cpsl/CrazySim/ros2_ws/install/crazyflie_py/share/ament_index/resource_index/packages
+[2.398s] symbolically linking /home/cpsl/CrazySim/ros2_ws/build/crazyflie_py/resource/crazyflie_py -> /home/cpsl/CrazySim/ros2_ws/install/crazyflie_py/share/ament_index/resource_index/packages
+[2.398s] symbolically linking /home/cpsl/CrazySim/ros2_ws/build/crazyflie_py/package.xml -> /home/cpsl/CrazySim/ros2_ws/install/crazyflie_py/share/crazyflie_py
+[2.486s] Invoked command in '/home/cpsl/CrazySim/ros2_ws/build/crazyflie_py' returned '0': CMAKE_PREFIX_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking:/home/cpsl/CrazySim/ros2_ws/install/crazyflie:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_sim:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_examples LD_LIBRARY_PATH=/home/cpsl/CrazySim/ros2_ws/install/crazyflie_interfaces/lib:/home/cpsl/CrazySim/ros2_ws/install/motion_capture_tracking_interfaces/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/home/cpsl/acados/lib PYTHONPATH=/home/cpsl/CrazySim/ros2_ws/build/crazyflie_py/prefix_override:/home/cpsl/CrazySim/ros2_ws/install/crazyflie_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/cpsl/CrazySim/ros2_ws/build/crazyflie_py/build --no-deps symlink_data

@@ -1,0 +1,87 @@
+address : INADDR_ANY , port : 19955 
+SOCKET_LINK: Create socket succeed 
+SOCKET_LINK: Binding succeed 
+SOCKET_LINK: Waiting for connection with gazebo ... 
+SOCKET_LINK: Connection established with gazebo 
+SYS: ----------------------------
+SYS: Software-in-the-Loop Simulator is up and running!
+SYS: Build 3:6a4d2d006ba3 (v1.2-alpha +3) CLEAN
+SENSORS: Forcing sensors to SensorImplementation_sitl
+AK8963 I2C connection [OK].
+LPS25H I2C connection [OK].
+Entering sensorsTask() 
+ESTIMATOR: Estimator type forced
+ESTIMATOR: Using Kalman (2) estimator
+CONTROLLER: Using PID (1) controller
+SYS: About to run tests in system.c.
+SENSORS TEST PASSED [OK].
+SYS: Self test passed!
+STAB: Wait for sensor calibration...
+GYro Bias found 
+STAB: Starting stabilizer loop
+ESTKALMAN: State out of bounds, resetting
+SUP: Can not fly
+SUP: Ready to fly
+ESTKALMAN: WARNING: Kalman prediction rate off (68)
+STAB: WARNING: stabilizer loop rate is off (421)
+ESTKALMAN: WARNING: Kalman prediction rate off (84)
+ESTKALMAN: WARNING: Kalman prediction rate off (81)
+ESTKALMAN: WARNING: Kalman prediction rate off (87)
+ESTKALMAN: WARNING: Kalman prediction rate off (79)
+ESTKALMAN: WARNING: Kalman prediction rate off (94)
+ESTKALMAN: WARNING: Kalman prediction rate off (81)
+ESTKALMAN: WARNING: Kalman prediction rate off (85)
+ESTKALMAN: WARNING: Kalman prediction rate off (94)
+ESTKALMAN: WARNING: Kalman prediction rate off (91)
+ESTKALMAN: WARNING: Kalman prediction rate off (91)
+ESTKALMAN: WARNING: Kalman prediction rate off (78)
+ESTKALMAN: WARNING: Kalman prediction rate off (76)
+ESTKALMAN: WARNING: Kalman prediction rate off (80)
+ESTKALMAN: WARNING: Kalman prediction rate off (78)
+ESTKALMAN: WARNING: Kalman prediction rate off (82)
+ESTKALMAN: WARNING: Kalman prediction rate off (98)
+ESTKALMAN: WARNING: Kalman prediction rate off (86)
+ESTKALMAN: WARNING: Kalman prediction rate off (76)
+ESTKALMAN: WARNING: Kalman prediction rate off (76)
+ESTKALMAN: WARNING: Kalman prediction rate off (93)
+ESTKALMAN: WARNING: Kalman prediction rate off (94)
+ESTKALMAN: WARNING: Kalman prediction rate off (79)
+ESTKALMAN: WARNING: Kalman prediction rate off (90)
+ESTKALMAN: WARNING: Kalman prediction rate off (93)
+ESTKALMAN: WARNING: Kalman prediction rate off (85)
+ESTKALMAN: WARNING: Kalman prediction rate off (82)
+ESTKALMAN: WARNING: Kalman prediction rate off (82)
+ESTKALMAN: WARNING: Kalman prediction rate off (94)
+ESTKALMAN: WARNING: Kalman prediction rate off (88)
+ESTKALMAN: WARNING: Kalman prediction rate off (89)
+ESTKALMAN: WARNING: Kalman prediction rate off (81)
+ESTKALMAN: WARNING: Kalman prediction rate off (76)
+ESTKALMAN: WARNING: Kalman prediction rate off (80)
+ESTKALMAN: WARNING: Kalman prediction rate off (79)
+ESTKALMAN: WARNING: Kalman prediction rate off (95)
+ESTKALMAN: WARNING: Kalman prediction rate off (96)
+ESTKALMAN: WARNING: Kalman prediction rate off (95)
+ESTKALMAN: WARNING: Kalman prediction rate off (89)
+ESTKALMAN: WARNING: Kalman prediction rate off (94)
+ESTKALMAN: WARNING: Kalman prediction rate off (76)
+ESTKALMAN: WARNING: Kalman prediction rate off (79)
+ESTKALMAN: WARNING: Kalman prediction rate off (81)
+ESTKALMAN: WARNING: Kalman prediction rate off (94)
+ESTKALMAN: WARNING: Kalman prediction rate off (96)
+ESTKALMAN: WARNING: Kalman prediction rate off (94)
+ESTKALMAN: WARNING: Kalman prediction rate off (90)
+ESTKALMAN: WARNING: Kalman prediction rate off (80)
+ESTKALMAN: WARNING: Kalman prediction rate off (81)
+ESTKALMAN: WARNING: Kalman prediction rate off (73)
+ESTKALMAN: WARNING: Kalman prediction rate off (80)
+ESTKALMAN: WARNING: Kalman prediction rate off (80)
+ESTKALMAN: WARNING: Kalman prediction rate off (78)
+ESTKALMAN: WARNING: Kalman prediction rate off (70)
+ESTKALMAN: WARNING: Kalman prediction rate off (84)
+ESTKALMAN: WARNING: Kalman prediction rate off (96)
+ESTKALMAN: WARNING: Kalman prediction rate off (90)
+ESTKALMAN: WARNING: Kalman prediction rate off (73)
+ESTKALMAN: WARNING: Kalman prediction rate off (81)
+ESTKALMAN: WARNING: Kalman prediction rate off (96)
+ESTKALMAN: WARNING: Kalman prediction rate off (97)
+ESTKALMAN: WARNING: Kalman prediction rate 
